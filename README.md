@@ -103,7 +103,7 @@ If you use this code for your research, kindly cite our paper.
 
 ## Acknowledgment
 
-Code base adapted from [med-ddpm]([text](https://github.com/mobaidoctor/med-ddpm)).
+Code base adapted from [med-ddpm](https://github.com/mobaidoctor/med-ddpm).
 
 ## Disclaimer 
 The code has been cleaned and polished for the sake of clarity and reproducibility, and even though it has been checked thoroughly, it might contain bugs or mistakes. Please do not hesitate to open an issue to inform of any problem you may find within this repository.
