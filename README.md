@@ -54,7 +54,7 @@ As a preprocessing step during training and testing, we use the 0-2 month (00-02
 
 - [NIHPD Objective 2 model comparison](https://www.bic.mni.mcgill.ca/~vfonov/nihpd/obj2/models.html)
 
-Generating a super-field brain MRI scan with our method is simple. First, download the NIHPD template from MCgillAfter downloading the model weights, run:
+After downloading the model weights, run:
 
     python inference.py --ulf_path /Path/To/Your/uLF/Sample.nii.gz --checkpoint=models/mriqt_model.pt 
 
