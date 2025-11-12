@@ -117,6 +117,4 @@ The code has been cleaned and polished for the sake of clarity and reproducibili
 This study was performed in line with the principles of the Declaration of Helsinki. Approval was granted by the Ethics Committee of UniBonn (Ethics Nr. 167/22).
 
 ## License
-The source code is licensed under GPL-3.0.  
-The pretrained models and figures are licensed under 
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
