@@ -40,11 +40,12 @@ We trained 2 models:
 1. MRIQT: a Diffusion model for image quality transfer
 2. A 3D-VGG like feature extractor for perceptual loss
 
-To test our work, the weights for both need to be downloaded and placed in `models`:
- 
+To test our work, the ccorresponding weights for both models need to be downloaded and placed in `models`. The weights are available upon request.
+<!-- 
+
 - [mriqt_model.pt](https://uni-bonn.sciebo.de/s/9CmBbXBiKefpRRj)
 - [feature_extractor.pth](https://uni-bonn.sciebo.de/s/LwT2FPJXFCacGap) 
-
+-->
 
 
 ### Test on a Data sample
@@ -72,7 +73,11 @@ Generating a super-field brain MRI scan with our method is simple. First, downlo
 
 #### Generate your own transfer function from your paired data 
 ----
-    python data/compute_transfer_function.py
+- Since our dataset is a private property of The University Hospital Bonn, we provide the transfer fucntion computed using our dataset upon request and corresponding approval.
+
+
+    `python data/compute_transfer_function.py`
+
 
 #### Run the training script
 ----
@@ -107,4 +112,7 @@ Code base adapted from [med-ddpm](https://github.com/mobaidoctor/med-ddpm).
 
 ## Disclaimer 
 The code has been cleaned and polished for the sake of clarity and reproducibility, and even though it has been checked thoroughly, it might contain bugs or mistakes. Please do not hesitate to open an issue to inform of any problem you may find within this repository.
+
+## Compliance with ethical standards. 
+This study was performed in line with the principles of the Declaration of Helsinki. Approval was granted by the Ethics Committee of UniBonn (Ethics Nr. 167/22).
 
