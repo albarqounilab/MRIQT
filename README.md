@@ -1,6 +1,6 @@
 # MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI
 
-[[Paper on Arxiv](https://arxiv.org/abs/XXXX.XXXXX)]
+[[Paper on Arxiv](https://arxiv.org/abs/2511.13232)]
 
 This repository hosts the offical PyTorch implementation and pretrained model weights for our paper "MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI". 
 <!-- which has been accpeted for publication in the IEEE International Symposium on Biomedical Imaging (ISBI 2026)-->
@@ -94,12 +94,14 @@ If you use this code for your research, kindly cite our paper.
 
 
 ```bibtex
-@article{XXXXXXXXXX,
-    title = {MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI},
-    author = {},
-    year = {2025},
-    journal = {arXiv preprint arXiv:XXXX.XXXXX}, OR ISBI
-    note = {Code: \url{https://github.com/albarqounilab/MRIQT}}
+@misc{abed2025mriqtphysicsawarediffusionmodel,
+      title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI}, 
+      author={Malek Al Abed and Sebiha Demir and Anne Groteklaes and Elodie Germani and Shahrooz Faghihroohi and Hemmen Sabir and Shadi Albarqouni},
+      year={2025},
+      eprint={2511.13232},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.13232}, 
 }
 ```
 
