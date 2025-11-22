@@ -94,16 +94,12 @@ If you use this code for your research, kindly cite our paper.
 
 
 ```bibtex
-@misc{abed2025mriqtphysicsawarediffusionmodel,
-      title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI}, 
-      author={Malek Al Abed and Sebiha Demir and Anne Groteklaes and Elodie Germani and Shahrooz Faghihroohi and Hemmen Sabir and Shadi Albarqouni},
-      year={2025},
-      eprint={2511.13232},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.13232}, 
-}
-```
+@article{abed2025mriqt,
+  title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI},
+  author={Abed, Malek Al and Demir, Sebiha and Groteklaes, Anne and Germani, Elodie and Faghihroohi, Shahrooz and Sabir, Hemmen and Albarqouni, Shadi},
+  journal={arXiv preprint arXiv:2511.13232},
+  year={2025}
+}```
 
 
 
