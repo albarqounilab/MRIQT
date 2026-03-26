@@ -92,17 +92,14 @@ Then run `python train.py`. Adjust the arguments accordingly.
 
 If you use this code for your research, kindly cite our paper.
 
-
 ```bibtex
 @article{abed2025mriqt,
   title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI},
   author={Abed, Malek Al and Demir, Sebiha and Groteklaes, Anne and Germani, Elodie and Faghihroohi, Shahrooz and Sabir, Hemmen and Albarqouni, Shadi},
   journal={arXiv preprint arXiv:2511.13232},
   year={2025}
-}```
-
-
-
+}
+```
 
 ## Acknowledgment
 
