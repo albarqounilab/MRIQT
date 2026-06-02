@@ -1,6 +1,7 @@
 # MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI
-
-[[Paper on Arxiv](https://arxiv.org/abs/2511.13232)]
+ 
+### Selected paper for oral presetnation at [the International Symposium on Biomedical Imaging (IEEE ISBI 2026)](https://biomedicalimaging.org/2026/)
+[[Paper on IEEE](https://ieeexplore.ieee.org/document/11515815)], [[Paper on Arxiv](https://arxiv.org/abs/2511.13232)]
 
 This repository hosts the offical PyTorch implementation and pretrained model weights for our paper "MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI". 
 <!-- which has been accpeted for publication in the IEEE International Symposium on Biomedical Imaging (ISBI 2026)-->
@@ -93,12 +94,16 @@ Then run `python train.py`. Adjust the arguments accordingly.
 If you use this code for your research, kindly cite our paper.
 
 ```bibtex
-@article{abed2025mriqt,
-  title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI},
-  author={Abed, Malek Al and Demir, Sebiha and Groteklaes, Anne and Germani, Elodie and Faghihroohi, Shahrooz and Sabir, Hemmen and Albarqouni, Shadi},
-  journal={arXiv preprint arXiv:2511.13232},
-  year={2025}
-}
+@INPROCEEDINGS{11515815,
+  author={Al Abed, Malek and Demir, Sebiha and Groteklaes, Anne and Germani, Elodie and Faghihroohi, Shahrooz and Sabir, Hemmen and Albarqouni, Shadi},
+  booktitle={2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)}, 
+  title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Hafnium;Modeling;Magnetic resonance imaging;Printing;Training;Neonatal;Neuroimaging;Brain;Timing;Pediatrics;Portable Ultra-Low-Field MRI;Image Quality Transfer;3D-Diffusion Models},
+  doi={10.1109/ISBI61048.2026.11515815}
 ```
 
 ## Acknowledgment
