@@ -99,8 +99,6 @@ If you use this code for your research, kindly cite our paper.
   booktitle={2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)}, 
   title={MRIQT: Physics-Aware Diffusion Model for Image Quality Transfer in Neonatal Ultra-Low-Field MRI}, 
   year={2026},
-  volume={},
-  number={},
   pages={1-5},
   keywords={Hafnium;Modeling;Magnetic resonance imaging;Printing;Training;Neonatal;Neuroimaging;Brain;Timing;Pediatrics;Portable Ultra-Low-Field MRI;Image Quality Transfer;3D-Diffusion Models},
   doi={10.1109/ISBI61048.2026.11515815}
